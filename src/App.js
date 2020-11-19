@@ -1,9 +1,14 @@
 import React from 'react';
 
+import './styles/reset.css'
+import './styles/App.css'
+
+import Header from './components/header'
+
 function App() {
     return (
         <>
-            <p>Teste Desafio Expansion Week</p>
+            {Header}
         </>
     )
 };
