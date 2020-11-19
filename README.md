@@ -12,6 +12,7 @@ Em, resumo, soft skills são as habilidades comportamentais de um indivíduo, co
 **Qual Soft Skill é a mais importante?**
 
 É dificil escolher qual soft skill é mais notória. A habilidade de resolver problemas, conflitos, ser adaptável, organizável, criativo, comunicativo, entre outros, são quesitos básicos para entrar no atual mercado. Entretanto, desenvolvê-las consequentemente irá moldar o relacionamento interpessoal e colaborador do desenvolvedor, principalmente se estiver em um ambiente corporativo, e, logo, irá melhorar na produtividade de sua equipe.
+<br><br>
 
 **O poder da habilidade em colaboração**
 
