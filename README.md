@@ -45,6 +45,8 @@ Para equipes ágeis, é de suma importância discutir, conversar, planejar, comu
 O desafio pode ser visto através do link: <link>https://savio591.github.io/colaboracao-skill</link>
 <br>
 
+Obs: o link pode redirecionar para o meu domínio savilexperiments.com.br, que está hospedado com o gh-pages.
+
 ---
 
 <br>
