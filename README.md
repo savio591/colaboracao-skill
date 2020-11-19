@@ -42,7 +42,7 @@ Para equipes ágeis, é de suma importância discutir, conversar, planejar, comu
 
 <br>
 
-O desafio pode ser visto através do link: <link>http://savio591.github.io/colaboracao-skill</link>
+O desafio pode ser visto através do link: <link>https://savio591.github.io/colaboracao-skill</link>
 <br>
 
 ---
