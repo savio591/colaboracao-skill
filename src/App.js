@@ -37,6 +37,10 @@ function App() {
                     </div>
                 </div>
             </article>
+
+            <footer>
+                <h2>© 2020 Colaboration Skill</h2>
+            </footer>
         </>
     )
 };

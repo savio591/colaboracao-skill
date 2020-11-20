@@ -47,6 +47,8 @@ O desafio pode ser visto através do link: <link>https://savio591.github.io/cola
 
 Obs: o link pode redirecionar para o meu domínio savilexperiments.com.br, que está hospedado com o gh-pages.
 
+O protótipo está disponível em: https://www.figma.com/file/UNw6yqErg8NJAyjfEUQf17/Landing-Page-Soft-Skill?node-id=1%3A36
+
 ---
 
 <br>
