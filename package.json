@@ -2,9 +2,13 @@
   "name": "colaboracao-skill",
   "version": "1.0.0",
   "main": "index.js",
+  "url": "https://8080-a67d676d-3394-49d8-921e-c5802acb272b.ws-us02.gitpod.io",
   "repository": "https://github.com/savio591/colaboracao-skill.git",
   "author": "savio591 <savio591@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+      "dev": "webpack serve --mode development"
+  },
   "dependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
