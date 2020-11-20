@@ -1,11 +1,13 @@
 HEADER
 
 Logo Colaboration Skill no centro do bloco header
+
 ---
 
 HEADER #NAVBAR
 
 Não especificado ainda.
+
 ---
 
 SECTION
