@@ -1,5 +1,5 @@
 import React from "react";
-// import bl1_bg from '../assets/maos_juntas.jpg'
+
 import Texts from './texts.json';
 
 import '../styles/section.css'

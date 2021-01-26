@@ -3,6 +3,7 @@ import React from 'react';
 import './styles/reset.css'
 import './styles/App.css'
 import Texts from './components/texts.json'
+import tartarugas_img from './assets/tartarugasninja.png'
 
 import Header from './components/header'
 import Section from './components/section'
@@ -13,9 +14,10 @@ function App() {
             <Header />
             <Section />
             <article>
-                <div className="at1">
+                <div className="at1 flex_row_shrink">
                     <p>{Texts.at1_texto}</p>
                     <div className="img_tn">
+                        <img src={tartarugas_img}></img>
                         <p>{Texts.at1_legenda}</p>
                     </div>
                 </div>
@@ -39,7 +41,7 @@ function App() {
             </article>
 
             <footer>
-                <h2>© 2020 Colaboration Skill</h2>
+                <h2>© 2021 Colaboration Skill</h2>
             </footer>
         </>
     )
